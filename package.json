@@ -1,0 +1,22 @@
+{
+  "name": "project_of_backend",
+  "version": "1.0.0",
+  "description": "This is the project to the page of Women's section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "heroku": "^7.59.2",
+    "mongoose": "^6.2.3"
+  },
+  "engines": {
+    "node": "v16.14.0"
+  }
+}
