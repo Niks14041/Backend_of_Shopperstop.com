@@ -35,7 +35,7 @@ Clone the project
 Start the server
 
 ```bash
-  start with live server
+  run with live server
 ```
 
 
