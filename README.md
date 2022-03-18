@@ -12,13 +12,13 @@ Demo Link :- https://jovial-bose-95ed42.netlify.app/
 #### Get all items of Mens
 
 ```http
-  GET https://shopperstopapinodejs.herokuapp.com/products/mens/shirts
+  GET /https://shopperstopapinodejs.herokuapp.com/products/mens/shirts
 ```
 
 #### Get all items of Beauty
 
 ```http
-  GET https://shopperstopapinodejs.herokuapp.com/products/beauty/perfume
+  GET /https://shopperstopapinodejs.herokuapp.com/products/beauty/perfume
 ```
 
 
