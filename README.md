@@ -7,22 +7,6 @@ Shoppers-Stop Clone project where, you can create account ,view mens and beauty 
 ## Demo
 
 Demo Link :- https://jovial-bose-95ed42.netlify.app/
-## API Reference
- #### Created Api on herokuapp  
-#### Get all items of Mens
-
-```http
-  GET /https://shopperstopapinodejs.herokuapp.com/products/mens/shirts
-```
-
-#### Get all items of Beauty
-
-```http
-  GET /https://shopperstopapinodejs.herokuapp.com/products/beauty/perfume
-```
-
-
-
 
 ## Run Locally
 
